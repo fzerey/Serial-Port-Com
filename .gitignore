@@ -22,7 +22,7 @@ build/
 bld/
 [Bb]in/
 [Oo]bj/
-
+[Pp]ackages/
 # Visual Studo 2015 cache/options directory
 .vs/
 
